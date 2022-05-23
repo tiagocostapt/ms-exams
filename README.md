@@ -5,7 +5,7 @@
 - AZ-204: Developing Solutions for Microsoft Azure
 - AZ-305: Designing Microsoft Azure Infrastructure Solutions
 - AZ-400: Designing and Implementing Microsoft DevOps Solutions
-- [AZ-500: Microsoft Azure Security Technologies](AZ-500.md)
+- [AZ-500: Microsoft Azure Security Technologies](az-500.md)
 - AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub
 - AZ-700: Designing and Implementing Microsoft Azure Networking Solutions
 - AZ-800: Administering Windows Server Hybrid Core Infrastructure
